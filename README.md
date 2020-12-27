@@ -2,4 +2,6 @@
 
 # Alkisla-Yanan-Lamba
 
-Arduino Based smart project. Just claps your hands and switch on / off the light. 
+Arduino based smart project. Just claps your hands and switch on / off the light. 
+
+Components : Audio Sensor, 5V Single Regulator, Lamp, Arduino Uno (can be Nano also)
